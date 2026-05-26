@@ -1,5 +1,5 @@
 # AdventureWorks SQL Lab
-
+> ✅ Status: Completed
 Hands-on SQL project using Microsoft's AdventureWorks2012 database — 
 one of the most widely used enterprise datasets in the industry.
 
